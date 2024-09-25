@@ -23,7 +23,7 @@ c7n = {path = "../..", develop = true}
 
 click = ">=8.0"
 rich = "^13.1"
-tfparse = "^0.6"
+tfparse = "^0.6.11"
 python-hcl2 = "^4.3.2"
 
 [tool.poetry.group.dev.dependencies]
